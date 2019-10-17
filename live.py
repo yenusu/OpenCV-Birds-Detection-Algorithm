@@ -11,7 +11,7 @@
 #date:          24/feb/2018
 
 # This script will detect birds approaching a rice farm via an external camera.
-# It is Tested with OpenCV3 on linux ubuntu 16.4
+# It is Tested with OpenCV3 on linux ubuntu 16.4 running Python 3 or above
 
 import cv2
 #cap = cv2.VideoCapture(0) #for automatic USBCam (0-web cam default)
